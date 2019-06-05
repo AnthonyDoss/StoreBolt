@@ -10,7 +10,7 @@ they are already registerd or signup and create a new account if they are not.
 
 The signup screen takes in customer information and confirms that user is over the age of 19. 
 
-<img width="689" alt="3" src="https://user-images.githubusercontent.com/46901885/58963737-b0e47480-877b-11e9-8e48-a83fbffde618.png">
+<img width="684" alt="3" src="https://user-images.githubusercontent.com/46901885/58964992-cb1f5200-877d-11e9-8fd8-6f1f7f92d5f9.png">
 
 After the customer is logged in they are brought to this page, where they can choose the 
 grocery section they want to purchase items from. 
