@@ -1,5 +1,5 @@
 # StoreBolt
-Java FXML application ,designed to allow users to pay for items they are going to purchase via the app.
+Java FXML application designed to allow users to pay for items they are going to purchase via the app.
 This eliminates the need to stand in line to purchase items and helps reduce time for the consumer.
 <img width="512" alt="1" src="https://user-images.githubusercontent.com/46901885/58962082-6c0b0e80-8778-11e9-8661-8aedcc6d730a.png">
 
